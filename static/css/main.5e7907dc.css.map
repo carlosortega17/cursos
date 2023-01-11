@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.5e7907dc.css","mappings":"AAIA,mBAHE,WAMF,CAHA,SAEE,SACF","sources":["index.css"],"sourcesContent":["html, body {\n  height: 100%;\n}\n\ndiv#root {\n  height: 100%;\n  padding: 0;\n}"],"names":[],"sourceRoot":""}
